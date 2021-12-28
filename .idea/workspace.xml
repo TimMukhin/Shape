@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2132cd2-f7dd-4c33-b6e2-0bcd27661dfd" name="Changes" comment="add array">
-      <change afterPath="$PROJECT_DIR$/Shapes/Shapes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shapes/src/ru/academits/mukhin/shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shapes/src/ru/academits/mukhin/shapes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shapes/src/ru/academits/mukhin/shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shapes/src/ru/academits/mukhin/shapes/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shapes/src/ru/academits/mukhin/shapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shapes/src/ru/academits/mukhin/shapes/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="f2132cd2-f7dd-4c33-b6e2-0bcd27661dfd" name="Changes" comment="add shape classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640664481379</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add shape classes">
+      <created>1640668340581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640668340581</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add array" />
-    <option name="LAST_COMMIT_MESSAGE" value="add array" />
+    <MESSAGE value="add a" />
+    <MESSAGE value="add shape classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add shape classes" />
   </component>
 </project>

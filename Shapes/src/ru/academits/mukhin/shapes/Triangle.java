@@ -17,7 +17,11 @@ public class Triangle {
         this.y3=y3;
     }
 
-    public double getHeight() {
-        return x1;
+    public double getWidth() {
+        return Math.max(x1,Math.max(x2,x3))-Math.min(x1,Math.min(x2,x3));
+    }
+
+    public double getHeight(){
+        return Math.max(y1,Math.max(y2,y3))-Math.min(y1,Math.min(y2,y3));
     }
 }
